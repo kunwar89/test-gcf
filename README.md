@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/GoogleCloudPlatform/continuous-deployment-demo.svg)](https://travis-ci.org/GoogleCloudPlatform/continuous-deployment-demo)
+[![Build Status](https://api.travis-ci.org/kunwar89/test-gcf.svg?branch=master)](https://travis-ci.org/kunwar89/test-gcf)
 
 # Project Title
 
