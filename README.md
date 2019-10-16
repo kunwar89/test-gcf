@@ -4,7 +4,7 @@
 
 One Paragraph of project description goes here
 
-<img src="./Cloud Vision Fun.png" width="200" align="right"/>
+<img src="./Cloud Vision Fun.png"/>
 
 ## Getting Started
 
