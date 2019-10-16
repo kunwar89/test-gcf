@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/GoogleCloudPlatform/continuous-deployment-demo.svg)](https://travis-ci.org/GoogleCloudPlatform/continuous-deployment-demo)
+
 # Project Title
 
 One Paragraph of project description goes here
