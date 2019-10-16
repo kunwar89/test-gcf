@@ -87,10 +87,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
-* [](https://blog.hubwa.re/continuous-deployment-for-serverless-google-cloud-functions-175b0756be28) - 
-* [](https://cloud.google.com/functions/docs/testing/test-background) - 
-* [](https://blog.travis-ci.com/2018-01-25-what-is-ci-part-2) - 
-* [](https://towardsdatascience.com/extensive-python-testing-on-travis-ci-4c24db9bf961) - 
-* [](https://docs.pytest.org/en/latest/) - 
+* [Serverless CI/CD](https://blog.hubwa.re/continuous-deployment-for-serverless-google-cloud-functions-175b0756be28) - 
+* [Testing Cloud Functions](https://cloud.google.com/functions/docs/testing/test-background) - 
+* [Travis CI Testing](https://blog.travis-ci.com/2018-01-25-what-is-ci-part-2) - 
+* [Extensive Python Testing](https://towardsdatascience.com/extensive-python-testing-on-travis-ci-4c24db9bf961) - 
+* [PyTest](https://docs.pytest.org/en/latest/) - 
 
 
