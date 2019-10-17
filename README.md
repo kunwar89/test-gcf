@@ -97,5 +97,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * [Travis CI Testing](https://blog.travis-ci.com/2018-01-25-what-is-ci-part-2) - 
 * [Extensive Python Testing](https://towardsdatascience.com/extensive-python-testing-on-travis-ci-4c24db9bf961) - 
 * [PyTest](https://docs.pytest.org/en/latest/) - 
+* [Travis Gist 1](https://gist.github.com/mderazon/5a5b50d92f4c4adaf44d5f49dd95d0ef) -
+* [Travis Gist 2](https://gist.github.com/HarvsG/967664a5e927092bc7a18ff95d3dde69) -
+* [Travis Gist 3](https://gist.github.com/mjackson/5887963e7d8b8fb0615416c510ae8857) -
+* [Travis Gist 4](https://www.drzon.net/posts/automatic-deployments-to-google-cloud-functions-with-travis-ci/) -
 
 
