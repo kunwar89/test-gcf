@@ -4,6 +4,9 @@
 
 One Paragraph of project description goes here
 
+* ECS vs GKE vs Azure KS vs PKE
+* Elastic Beanstalk vs Google App Engine vs Azure App Service vs Heroku Dynos
+
 <img src="./Cloud Vision Fun.png"/>
 
 ## Getting Started
